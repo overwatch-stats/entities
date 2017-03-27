@@ -2,6 +2,7 @@
   "name": "overwatch-stats-entities",
   "description": "Entities for Overwatch",
   "private": false,
+  "version": "0.0.1",
   "main": "src/index.js",
   "devDependencies": {
     "babel-eslint": "^7.1.0",
